@@ -24,3 +24,6 @@ print("max number",matrix.max())
 
 print("column totals",matrix.sum(axis=0))
 print("rows totals",matrix.sum(axis=1))
+
+
+print("matrix")
