@@ -14,3 +14,8 @@ print(df[df["Marks"]>80])
 print(df[df["City"]=="Chennai"])
 
 print(df.head())
+
+print(df.head(1))
+print("\ntail",df.tail())
+print(df.info())
+print(df.describe())
